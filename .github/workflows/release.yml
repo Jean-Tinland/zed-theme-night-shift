@@ -12,7 +12,7 @@ jobs:
         with:
           extension-name: night-shift
           # extension-path: extensions/${{ extension-name }}
-          push-to: Jean-Tinland/extensions
+          push-to: Jean-Tinland/zed-extensions
         env:
           # the personal access token should have "repo" & "workflow" scopes
           COMMITTER_TOKEN: ${{ secrets.COMMITTER_TOKEN }}
