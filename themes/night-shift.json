@@ -122,7 +122,7 @@
         "modified": "#21bfc2b3",
         "modified.background": null,
         "modified.border": null,
-        "predictive": "#98a8c5",
+        "predictive": "#39465e",
         "predictive.background": null,
         "predictive.border": null,
         "renamed": null,
@@ -134,9 +134,9 @@
         "unreachable": null,
         "unreachable.background": null,
         "unreachable.border": null,
-        "warning": "#ffd484",
-        "warning.background": null,
-        "warning.border": null,
+        "warning": null,
+        "warning.background": "#39465e",
+        "warning.border": "#ffd484",
         "players": [
           {
             "cursor": "#ffd484",
